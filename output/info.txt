@@ -1,0 +1,1 @@
+This is output directory of Media-Graper tool. You will find here output saved data.
