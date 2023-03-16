@@ -6,5 +6,5 @@ Media Graper is a open source tool for Linux which is developed to extract all t
 ### Run script 
 > bash main.sh
 # Screenshot
-![alt text](https://raw.githubusercontent.com/davidmillerpak/Media-Graper/main/screenshots/media-graper.png)
-![alt text](https://raw.githubusercontent.com/davidmillerpak/Media-Graper/main/screenshots/media-graped.png)
+![Media Graper Starting](https://raw.githubusercontent.com/davidmillerpak/Media-Graper/main/screenshots/media-graper.png)
+![Media Graper Ending](https://raw.githubusercontent.com/davidmillerpak/Media-Graper/main/screenshots/Media-Graped.png)
