@@ -4,10 +4,6 @@ if ! command -v php > /dev/null
 then
     echo -ne "\n\e[1;77m[CRITICAL]\e[0m \e[1;91mPHP require, Please Install it and try again later.\e[0m"
     exit
-elif ! command -v curl >/dev/null
-then
-    echo -ne "\n\e[1;77m[CRITICAL]\e[0m \e[1;91mCURL require, Please Install it and try again later.\e[0m"
-    exit
 else
    printf "\e[1;94m______________________________________________\e[0m\e[1;77m______________________________________________\e[0m\n\n"
    printf "\e[1;77m                               ___ __  ___  _ \e[0m\e[1;94m   _   __   _  __  ___ __  \e[0m\n"
